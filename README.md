@@ -1,7 +1,6 @@
 - 👩‍🔬 Hi, I’m @Lia-droid
 - 🔎 I’m interested in AI for ICU/outbreaks/disasters
-- 🌱 I’m currently working on my thesis
-- 🤝🏻 I’m looking to collaborate on Tech Health
+- 📝 I’m currently working on my thesis
 - 📫 How to reach me lia.graca@unifesp.br
 
 
