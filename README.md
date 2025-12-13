@@ -1,7 +1,19 @@
-- 👩‍🔬 Hi, I’m @Lia-droid
-- 🔎 I’m interested in AI for Health/Defence/outbreaks/disasters
-- 📝 I’m currently working on my articles
-- 📫 How to reach me lia.graca@unifesp.br
+Hi, I’m Lia da Graca (@Lia-droid)
+
+I am the Research Lead in Quantum Technologies and Vice Lead of AI at the
+Laboratory of Simulations and Scenarios (LabSS),
+Naval War School (Brazil), working on foresight, defence-related scenarios,
+and complex systems under stress.
+
+My work focuses on:
+• AI-driven ICU triage, mortality, and length of stay prediction  
+• Large-scale public health datasets (e.g., SRAG / INFLUD – Brazil)  
+• Reproducible computational methods and decision-support systems  
+• Strategic applications of AI and quantum-inspired approaches in defence contexts  
+
+Currently working on peer-reviewed articles, postdoctoral project and method-oriented research projects.
+
+📫 Contact: lia.systemslab@gmail.com
 
 
 <!---
