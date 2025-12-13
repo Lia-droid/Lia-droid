@@ -1,8 +1,8 @@
 Hi, I’m Lia da Graca (@Lia-droid)
 
 I am the Research Lead in Quantum Technologies and Vice Lead of AI at the
-Laboratory of Simulations and Scenarios (LabSS),
-Naval War School (Brazil), working on foresight, defence-related scenarios,
+Laboratory of Simulations and Scenarios (LSC),
+Naval War School (EGN-Brazil), working on foresight, defence-related scenarios,
 and complex systems under stress.
 
 My work focuses on:
