@@ -1,6 +1,6 @@
 Hi, I’m Lia da Graca (@Lia-droid)
 
-I am a Project manager working on Artificial Intelligence applied to strategic systems, critical care, public health,
+I am a Project Manager working on Artificial Intelligence applied to strategic systems, critical care, public health,
 and strategic preparedness for outbreaks, disasters, and defence-related scenarios.
 
 My research includes:
