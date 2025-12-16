@@ -1,20 +1,22 @@
 Hi, I’m Lia da Graca (@Lia-droid)
 
-Project Manager. My work focuses on:
+I am a Project manager working on Artificial Intelligence applied to critical care, public health,
+and strategic preparedness for outbreaks, disasters, and defence-related scenarios.
 
-• AI-driven ICU triage, mortality, and length of stay prediction  
-• Large-scale public health datasets (e.g., SRAG / INFLUD – Brazil)  
-• Reproducible computational methods and decision-support systems  
-• Strategic applications of AI and quantum technologies driven approaches in defence contexts  
+My research includes:
 
-I am the Research Lead in Quantum Technologies and Vice Lead of AI at the
-Laboratory of Simulations and Scenarios (LSC),
-Naval War School (EGN-Brazil), working on foresight, defence-related scenarios,
-and complex systems under stress.
-Currently working on peer-reviewed articles, postdoctoral project and method-oriented research projects.
+• AI-driven ICU triage and resource allocation  
+• Predictive modeling using national-scale health datasets  
+• Reproducible computational infrastructures for translational decision support  
+• Transition from classical AI to Quantum AI approaches, including
+  quantum-enhanced time-series prediction and hybrid Qu-AI algorithms  
+
+I am currently exploring and developing quantum-inspired and variational
+quantum models (e.g., QLSTM / VQC-based architectures) as part of this transition.
+
+Currently developing my project for post-doctoral research, scientific articles and method-oriented research frameworks.
 
 📫 Contact: lia.systemslab@gmail.com
-
 
 <!---
 Lia-droid/Lia-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
