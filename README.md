@@ -18,8 +18,8 @@
 • Alma Mater: Fundação Getúlio Vargas EAESP 
 
 Project Manager working on Artificial Intelligence applied to strategic systems,
-critical care, public health, and strategic preparedness for outbreaks,
-disasters, and defence-related scenarios.
+critical care predictions and forecasting, public health,
+and defence-oriented preparedness for outbreaks, disasters, and complex scenarios.
 
 **My research includes:**
 
