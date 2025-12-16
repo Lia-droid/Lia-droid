@@ -2,8 +2,8 @@
   <a href="mailto:lia.systemslab@gmail.com">
     <img src="https://img.shields.io/badge/Email-lia.systemslab%40gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://simulacoesecenarios.wixsite.com/projetosementes/tic-intelig%C3%AAncia-artificial">
-    <img src="https://img.shields.io/badge/Project-TIC%20Artificial%20Intelligence-darkgreen?style=flat-square&logo=google-chrome" />
+  <a href="https://sites.google.com/ime.eb.br/iatq">
+    <img src="https://img.shields.io/badge/Project-IATQ%20%7C%20IME-eb3b3b?style=flat-square&logo=google-chrome" />
   </a>
 </p>
 
