@@ -11,8 +11,11 @@
 
 **I am:** Lia da Graça (@Lia-droid)
 
-• PhD in Sciences (AI for Health)  
-• MSc. Organizational Networks  
+• PhD in Sciences (AI for Health) UNIFESP
+• Visiting PhD Researcher – Universidad de Alicante 
+• MSc. Organizational Networks UNIP
+• MBA Exchange (Visiting MSc.) – ESADE Business School, Barcelona
+• Alma Mater: Fundação Getúlio Vargas EAESP 
 
 Project Manager working on Artificial Intelligence applied to strategic systems,
 critical care, public health, and strategic preparedness for outbreaks,
