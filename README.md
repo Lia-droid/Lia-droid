@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# **Welcome to Lia Laboratory: Lia-droid**
+# **Welcome to my Laboratory: Lia-droid**
 
 **I am:** Lia da Graça (@Lia-droid)
 
