@@ -20,6 +20,8 @@
 Project Manager working on Artificial Intelligence applied to strategic systems,
 critical care predictions and forecasting, public health,
 and defence-oriented preparedness for outbreaks, disasters, and complex scenarios.
+My work is grounded in extensive applied experience in critical and high-stakes environments.
+I have led and advised large-scale restructuring processes (four major transformations).
 
 **My research includes:**
 
@@ -30,10 +32,8 @@ and defence-oriented preparedness for outbreaks, disasters, and complex scenario
   quantum-enhanced time-series prediction and hybrid Qu-AI algorithms  
 
 I am currently exploring and developing quantum-inspired and variational
-quantum models (e.g., QLSTM / VQC-based architectures) as part of this transition.
-
-Currently developing my project for post-doctoral research, scientific articles,
-and method-oriented research frameworks.
+quantum models (e.g., QLSTM / VQC-based architectures) as part of this transition and
+developing my project for post-doctoral research and and method-oriented research frameworks.
 
 📫 **Contact:** lia.systemslab@gmail.com
 
