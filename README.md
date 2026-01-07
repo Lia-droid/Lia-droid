@@ -35,7 +35,7 @@ I am currently exploring and developing quantum-inspired and variational
 quantum models (e.g., QLSTM / VQC-based architectures) as part of this transition and
 developing my project for post-doctoral research and and method-oriented research frameworks.
 
-📫 **Contact:** lia.systemslab@gmail.com
+**Contact:** lia.systemslab@gmail.com
 
 <!---
 Lia-droid/Lia-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
