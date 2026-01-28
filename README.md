@@ -11,7 +11,7 @@
 
 **I am:** Lia da Graça (@Lia-droid)
 
-• PhD in Sciences (AI for Health) UNIFESP
+• PhD in Sciences (AI for ICU and outbreaks scenario) UNIFESP
 • Visiting PhD Researcher – Universidad de Alicante 
 • MSc. Organizational Networks UNIP
 • MBA Exchange (Visiting MSc.) – ESADE Business School, Barcelona
