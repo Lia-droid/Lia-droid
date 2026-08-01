@@ -1,53 +1,78 @@
-<p align="left">
-  <a href="mailto:lia.systemslab@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lia.systemslab%40gmail.com-blue?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://sites.google.com/ime.eb.br/iatq">
-    <img src="https://img.shields.io/badge/Project-IATQ%20%7C%20IME-eb3b3b?style=flat-square&logo=google-chrome" />
-  </a>
+<p align="center">
+  <img src="assets/laboratory-banner.png" width="100%" alt="Laboratory banner">
 </p>
 
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=36&center=true&vCenter=true&width=1000&duration=3200&pause=900&lines=Welcome+to+my+Laboratory)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF2DAA&size=38&center=true&vCenter=true&width=900&duration=3200&pause=900&lines=Welcome+to+my+Laboratory)](https://git.io/typing-svg)
 
 </h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/EXCELLENCE%20FOR%20COMPLEX%20SYSTEMS-111111?style=for-the-badge&labelColor=111111&color=C7923E">
+</p>
+
+<p align="center">
+  <a href="mailto:lia.systemslab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=FF2DAA">
+  </a>
+  <a href="https://sites.google.com/ime.eb.br/iatq">
+    <img src="https://img.shields.io/badge/IATQ%20%7C%20IME-111111?style=for-the-badge&logo=googlechrome&logoColor=C7923E">
+  </a>
+  <a href="https://github.com/Lia-droid">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FF2DAA">
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="32%" align="center">
+
+<img src="assets/profile-photo.png" width="220" alt="Lia da Graça">
+
+</td>
+
+<td width="68%">
+
 ## Lia da Graça
 
-**GitHub:** [@Lia-droid](https://github.com/Lia-droid)
+Project Manager and Researcher working at the intersection of artificial intelligence, strategic systems, critical-care prediction, public health, and defence-oriented preparedness for outbreaks, disasters, and complex scenarios.
 
-### Academic background
+</td>
+</tr>
+</table>
 
-- PhD in Sciences — Artificial Intelligence for intensive care and outbreak scenarios, UNIFESP  
-- Visiting PhD Researcher — Universidad de Alicante, Spain  
-- MSc in Organizational Networks — UNIP  
-- MBA Exchange / Visiting Graduate Student — ESADE Business School, Barcelona  
-- Alma mater — Fundação Getulio Vargas, EAESP  
+---
 
-### Professional profile
+## Research Focus
 
-I am a project manager and researcher working at the intersection of artificial intelligence, strategic systems, critical-care prediction, public health, and defence-oriented preparedness for outbreaks, disasters, and complex scenarios.
+- AI-driven ICU triage and healthcare resource allocation
+- Predictive modelling using national-scale health datasets
+- Reproducible computational infrastructures for translational decision support
+- Outbreaks, disasters, and complex scenarios
+- Quantum technologies and the transition from classical AI to Quantum AI
+- Quantum-enhanced time-series prediction and hybrid quantum–classical algorithms
 
-My work combines computational research with extensive applied experience in critical and high-stakes environments. I have led and advised four major organizational restructuring and transformation processes.
+---
 
-### Research interests
+## Academic Background
 
-- AI-driven ICU triage and healthcare resource allocation  
-- Predictive modelling using national-scale health datasets  
-- Reproducible computational infrastructures for translational decision support  
-- Machine learning for outbreaks, disasters, and complex scenarios  
-- Quantum technologies and the transition from classical AI to Quantum AI  
-- Quantum-enhanced time-series prediction and hybrid quantum–classical algorithms  
+- PhD in Sciences — UNIFESP
+- Visiting PhD Researcher — Universidad de Alicante
+- MSc in Organizational Networks — UNIP
+- MBA Exchange — ESADE Business School
+- Alma mater — Fundação Getulio Vargas, EAESP
 
-I am currently investigating quantum-inspired and variational quantum models, including QLSTM and VQC-based architectures, as part of my transition toward Quantum AI.
+---
 
-I am also developing postdoctoral research proposals and method-oriented frameworks for translational, reproducible, and high-stakes decision-support systems.
+## Technology Stack
 
-### Contact
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,git,github" />
+</p>
 
-**Email:** [lia.systemslab@gmail.com](mailto:lia.systemslab@gmail.com)
+---
 
-<!---
-Lia-droid/Lia-droid is a special repository because its README.md appears on the GitHub profile.
---->
+<p align="center">
+  <strong>Excellence for complex systems is not a luxury — it is a responsibility.</strong>
+</p>
