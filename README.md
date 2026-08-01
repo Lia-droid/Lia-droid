@@ -9,7 +9,7 @@
 
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=36&center=true&vCenter=true&width=1000&duration=3200&pause=900&lines=Welcome+to+my+Laboratory)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=36&center=true&vCenter=true&width=1000&duration=3200&pause=900&lines=Welcome+to+my+Laboratory)](https://git.io/typing-svg)
 
 </h1>
 
