@@ -41,21 +41,48 @@
 </p>
 
 <table>
+<table>
 <tr>
 
-<td width="32%" align="center">
-  <img
-    src="assets/profile-photo.png"
-    width="220"
-    alt="Lia da Graça"
-  />
+<td width="36%" valign="top">
+
+<h3 align="center">Laboratory Dashboard</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-ACTIVE-111111?style=for-the-badge&logo=openai&logoColor=FF2DAA&labelColor=111111" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QUANTUM-RESEARCHING-111111?style=for-the-badge&logo=qiskit&logoColor=C7923E&labelColor=111111" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROCESS%20MINING-IN%20PROGRESS-111111?style=for-the-badge&logo=databricks&logoColor=8A2BE2&labelColor=111111" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CRITICAL%20CARE-MODELLING-111111?style=for-the-badge&logo=heart&logoColor=FF2DAA&labelColor=111111" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STRATEGIC%20SYSTEMS-ACTIVE-111111?style=for-the-badge&logo=target&logoColor=C7923E&labelColor=111111" />
+</p>
+
 </td>
 
-<td width="68%">
+<td width="64%" valign="top">
 
 ## Lia da Graça
 
 Project Manager and Researcher working at the intersection of artificial intelligence, strategic systems, critical-care prediction, public health, and defence-oriented preparedness for outbreaks, disasters, and complex scenarios.
+
+### Current laboratory directions
+
+- Translational AI for ICU triage and resource allocation
+- National-scale health-data modelling
+- Process mining for clinical pathways
+- Quantum and quantum-inspired machine learning
+- Strategic preparedness for complex scenarios
 
 </td>
 
