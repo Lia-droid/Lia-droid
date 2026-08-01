@@ -7,37 +7,47 @@
   </a>
 </p>
 
-# **Welcome to my Laboratory**
+<h1 align="center">
 
-**I am:** Lia da Graça (@Lia-droid)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D946EF&size=36&center=true&vCenter=true&width=1000&duration=3200&pause=900&lines=Welcome+to+my+Laboratory)](https://git.io/typing-svg)
 
-• PhD in Sciences (AI for ICU and outbreaks scenario) UNIFESP
-• Visiting PhD Researcher – Universidad de Alicante 
-• MSc. Organizational Networks UNIP
-• MBA Exchange (Visiting MSc.) – ESADE Business School, Barcelona
-• Alma Mater: Fundação Getúlio Vargas EAESP 
+</h1>
 
-Project Manager working on Artificial Intelligence applied to strategic systems,
-critical care predictions and forecasting, public health,
-and defence-oriented preparedness for outbreaks, disasters, and complex scenarios.
-My work is grounded in extensive applied experience in critical and high-stakes environments.
-I have led and advised large-scale restructuring processes (four major transformations).
+## Lia da Graça
 
-**My research includes:**
+**GitHub:** [@Lia-droid](https://github.com/Lia-droid)
 
-• AI-driven ICU triage and resource allocation  
-• Predictive modeling using national-scale health datasets  
-• Reproducible computational infrastructures for translational decision support  
-• Transition from classical AI to Quantum AI approaches, including  
-  quantum-enhanced time-series prediction and hybrid Qu-AI algorithms  
+### Academic background
 
-I am currently exploring and developing quantum-inspired and variational
-quantum models (e.g., QLSTM / VQC-based architectures) as part of this transition and
-developing my project for post-doctoral research and and method-oriented research frameworks.
+- PhD in Sciences — Artificial Intelligence for intensive care and outbreak scenarios, UNIFESP  
+- Visiting PhD Researcher — Universidad de Alicante, Spain  
+- MSc in Organizational Networks — UNIP  
+- MBA Exchange / Visiting Graduate Student — ESADE Business School, Barcelona  
+- Alma mater — Fundação Getulio Vargas, EAESP  
 
-**Contact:** lia.systemslab@gmail.com
+### Professional profile
+
+I am a project manager and researcher working at the intersection of artificial intelligence, strategic systems, critical-care prediction, public health, and defence-oriented preparedness for outbreaks, disasters, and complex scenarios.
+
+My work combines computational research with extensive applied experience in critical and high-stakes environments. I have led and advised four major organizational restructuring and transformation processes.
+
+### Research interests
+
+- AI-driven ICU triage and healthcare resource allocation  
+- Predictive modelling using national-scale health datasets  
+- Reproducible computational infrastructures for translational decision support  
+- Machine learning for outbreaks, disasters, and complex scenarios  
+- Quantum technologies and the transition from classical AI to Quantum AI  
+- Quantum-enhanced time-series prediction and hybrid quantum–classical algorithms  
+
+I am currently investigating quantum-inspired and variational quantum models, including QLSTM and VQC-based architectures, as part of my transition toward Quantum AI.
+
+I am also developing postdoctoral research proposals and method-oriented frameworks for translational, reproducible, and high-stakes decision-support systems.
+
+### Contact
+
+**Email:** [lia.systemslab@gmail.com](mailto:lia.systemslab@gmail.com)
 
 <!---
-Lia-droid/Lia-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Lia-droid/Lia-droid is a special repository because its README.md appears on the GitHub profile.
 --->
