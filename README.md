@@ -57,12 +57,17 @@ Project Manager and Researcher working at the intersection of artificial intelli
 
 ## Academic Background
 
-- PhD in Sciences — UNIFESP
-- Visiting PhD Researcher — Universidad de Alicante
-- MSc in Organizational Networks — UNIP
-- MBA Exchange — ESADE Business School
-- Alma mater — Fundação Getulio Vargas, EAESP
+- **PhD in Sciences** (Artificial Intelligence for ICU and Outbreak Scenarios) — Universidade Federal de São Paulo (UNIFESP)
 
+- **Visiting PhD Researcher** — Universidad de Alicante, Spain
+
+- **Postgraduate Certificate in Public Economics and Finance** — Fundação Getulio Vargas (FGV)
+
+- **MSc Exchange Program** — ESADE Business School, Barcelona
+
+- **MSc in Organizational Networks** — Universidade Paulista (UNIP)
+
+- **Alma mater** — Fundação Getulio Vargas (FGV EAESP)
 ---
 
 ## Technology Stack
