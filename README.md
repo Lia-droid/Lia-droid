@@ -55,10 +55,14 @@ My current interests include university–industry collaboration, hybrid AI arch
 
 ---
 
+
 ## Academic Background
 
 - **PhD in Sciences** — Universidade Federal de São Paulo (UNIFESP)  
   Research focus: Artificial Intelligence for ICU and Outbreak Scenarios
+
+- **BSc in Data Science (In Progress)** — Universidade Virtual do Estado de São Paulo (UNIVESP)  
+  Focus: Artificial Intelligence, Machine Learning, and Data Analytics
 
 - **Visiting PhD Researcher** — Universidad de Alicante, Spain
 
