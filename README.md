@@ -55,16 +55,16 @@ My current interests include university–industry collaboration, hybrid AI arch
 
 ---
 
-
 ## Academic Background
 
 - **PhD in Sciences** — Universidade Federal de São Paulo (UNIFESP)  
   Research focus: Artificial Intelligence for ICU and Outbreak Scenarios
 
+- **Visiting PhD Researcher (Doctoral Research Fellowship)** — Escuela Politécnica Superior, Universidad de Alicante (UA), Spain  
+  Research focus: Robotics, 3D Computer Vision, and Artificial Intelligence
+
 - **BSc in Data Science (In Progress)** — Universidade Virtual do Estado de São Paulo (UNIVESP)  
   Focus: Artificial Intelligence, Machine Learning, and Data Analytics
-
-- **Visiting PhD Researcher** — Universidad de Alicante, Spain
 
 - **Postgraduate Certificate in Public Economics and Finance** — Fundação Getulio Vargas (FGV)
 
@@ -73,7 +73,6 @@ My current interests include university–industry collaboration, hybrid AI arch
 - **MSc in Organizational Networks** — Universidade Paulista (UNIP)
 
 - **Alma Mater** — Fundação Getulio Vargas (FGV EAESP)
-
 ---
 
 ## Technical Expertise
